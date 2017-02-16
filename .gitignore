@@ -1,0 +1,6 @@
+Makefile.Debug
+Makefile
+Makefile.Release
+object_*
+build/*
+.idea
